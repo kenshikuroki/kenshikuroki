@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hi there, I'm Kenshi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
+  Personal Website: <a href="https://kenshikuroki.github.io">https://kenshikuroki.github.io</a><br><br>
   <a href="mailto:k-kuroki-e23@eagle.sophia.ac.jp"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/kenshikuroki"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/kenshi-kuroki/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
